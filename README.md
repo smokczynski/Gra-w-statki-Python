@@ -24,7 +24,7 @@ W terminalu, w folderze z projektem wpisz:
     python main.py
 lub
     python3 main.py
-Struktura projektu
+
 
 Projekt składa się z 7 plików:
 
@@ -51,7 +51,9 @@ Okręt podwodny (1 pole)
 Okręt podwodny 2 (1 pole)
 
 Statki nie mogą się stykać ze sobą ani wychodzić poza planszę.
-Rozgrywka
+
+Rozgrywka:
+
 
 Gracze na przemian strzelają w pola na planszy przeciwnika. Trafienie oznacza możliwość oddania kolejnego strzału. Pudło kończy turę. Gra kończy się gdy jeden z graczy zatopi wszystkie statki przeciwnika.
 
